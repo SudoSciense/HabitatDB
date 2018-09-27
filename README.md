@@ -3,14 +3,14 @@
 A simple web application that was built using Facebook's create-react-app, a NodeJS/Express API server and a MySQL database.
 
 ## Get Started ###
-###Needed:
+### Needed:
 * [Node.js](https://nodejs.org/en/download/package-manager/)
 * [Docker](https://docs.docker.com/install/)
 * [Docker Compose](https://docs.docker.com/compose/install/)
 
 Instead of actually installing mysql, we're going to utilize Docker to just grab a mysql image and make a container that runs it.
 
-###Install and run
+### Install and run
 
 Clone the repo, then
 
